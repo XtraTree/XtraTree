@@ -58,4 +58,3 @@ Purpose of this portfolio
 To demonstrate how enterprise architecture is practiced in real environments — beyond theory, beyond tooling, focused on decision quality, risk control, and governance.
 
 	“Architecture is not what we deploy. Architecture is how we decide.”
-<img width="931" height="2026" alt="image" src="https://github.com/user-attachments/assets/3278f7cc-c1cc-4117-94b1-9bb476a9db6e" />
