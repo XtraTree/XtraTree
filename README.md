@@ -1,57 +1,100 @@
-Jonathan Tene — Enterprise Architecture Portfolio
-Designing Secure, Resilient, AI-Ready Hybrid Infrastructures
+# Jonathan Tene — Enterprise Architecture Portfolio
 
-I am an Enterprise Architect specializing in network, security, cloud, and operational governance for large and regulated environments (healthcare, finance, public sector).
-This GitHub is not a code repository.
-It is an Architectural Evidence Library documenting real-world transformation programs, decision frameworks, and governance models used to design and modernize enterprise infrastructures.
+**Designing Secure, Resilient, AI-Ready Hybrid & Multi-Cloud Infrastructures**
 
-What you will find here
-	• Hybrid and multi-cloud architecture blueprints
-	• Network modernization patterns (MPLS → SD-WAN, Data Center Optimisation)
-	• Zero-Trust security using NAC, identity, and SecOps
-	• Cloud-native governance and workload hardening patterns
-	• Migration strategies, risk models, and operational design
-	• Architecture decision rationale and lessons learned
-	
-Each repository is a sanitized case study focused on how and why architectural decisions were made.
+<p align="center">
+  <em>Real-world architectural evidence from large-scale transformation programs in regulated industries</em>
+</p>
 
-Core Architecture Domains
-Domain	Focus
-Hybrid & Multi-Cloud	Data residency, resilience (RTO/RPO), workload placement
-Network Modernization	Segmentation, SD-WAN, data center optimization
-Zero-Trust Security	Identity-driven access, NAC, continuous protection
-Cloud-Native Governance	Workload hardening, policy enforcement, compliance
+<br/>
 
-Flagship Repositories
-01 — Hybrid Multi-Cloud Blueprints
-Architecture patterns for healthcare and financial institutions distributing workloads across on-prem and cloud while respecting data residency, resilience, and zero-trust segmentation.
+I am an **Enterprise Architect** specializing in:
 
-02 — Network Modernization
-Enterprise transformation from MPLS to SD-WAN and methodology for optimizing and relocating data center infrastructures with minimal risk.
+- Hybrid & multi-cloud strategies  
+- Network modernization & segmentation  
+- Zero Trust security & identity-driven access  
+- Cloud-native governance & workload hardening  
+- Data center optimization & migration  
+- Risk-informed decision frameworks
 
-03 — Zero-Trust Security
-Applying zero-trust principles using Cisco ISE/NAC and SecOps practices for identity-based segmentation and continuous protection.
+This is **not** a traditional code repository.  
+This is an **Architectural Evidence Library** — a collection of sanitized, real-world case studies, decision rationales, patterns, and governance models drawn from complex enterprise transformations in **healthcare**, **finance**, **public sector**, and large distributed organizations.
 
-04 — Cloud-Native Governance
-Cloud-agnostic governance and hardening patterns for multi-cloud and Kubernetes environments aligned with compliance and zero-trust.
+### What You Will Find Here
 
-Architecture Principles
-All case studies are built upon consistent principles:
+- **Hybrid & multi-cloud architecture blueprints** (workload placement, data residency, resilience)  
+- **Network modernization patterns** (MPLS → SD-WAN, data center relocation & optimization)  
+- **Zero Trust & security posture** implementations (NAC, identity, SecOps, continuous protection)  
+- **Cloud-native governance & hardening** patterns (Kubernetes, policy-as-code, compliance alignment)  
+- **Migration strategies**, cutover approaches, risk models & operational designs  
+- **Architecture decision records (ADRs)** and lessons learned from production environments
 
-	• Security & Identity principles 		(Secure by Design, Identity as perimeter)
-	• Operational principles 			(Observability, Network as a Control Plane, Governance-first)
-	• Architectural flexibility 			(Cloud-agnostic, resilience/reliability)
-	• Future-ready foundations 			(AI/ML optimization)
+Each repository or folder represents a **sanitized case study** focused on **why** decisions were made, **how** trade-offs were handled, and **what** outcomes were achieved.
 
-About Me
-Enterprise Architect with 20+ years in network and security engineering, specializing in transforming complex infrastructures into secure, governable, cloud-ready platforms.
-Experience across:
-	• Healthcare systems
-	• Financial institutions
-	• Government and public sector
-	• Large distributed enterprises
+### Core Architecture Domains
 
-Purpose of this portfolio
-To demonstrate how enterprise architecture is practiced in real environments beyond theory, beyond tooling, focused on decision quality, risk control, and governance.
+| Domain                     | Primary Focus areas                                                                 |
+|----------------------------|--------------------------------------------------------------------------------------|
+| **Hybrid & Multi-Cloud**   | Data residency, disaster recovery (RTO/RPO), workload placement, repatriation       |
+| **Network Modernization**  | SD-WAN, segmentation, data center optimization & relocation, minimal-risk migration |
+| **Zero Trust Security**    | Identity as perimeter, NAC/ISE, continuous monitoring & remediation, SecOps         |
+| **Cloud-Native Governance**| Workload hardening, policy enforcement, compliance mapping, Kubernetes security    |
 
-	“Architecture is not what we deploy. Architecture is how we decide.”
+### Flagship Repositories & Patterns
+
+- **[01-hybrid-multicloud-blueprints](./01-hybrid-multicloud-blueprints)**  
+  Patterns for regulated industries (healthcare & finance) — secure workload distribution, data sovereignty, resilience, and zero-trust segmentation across on-premises and multiple clouds
+
+- **[02-network-modernization](./02-network-modernization)**  
+  Large-scale MPLS-to-SD-WAN transformations, data center optimization & relocation methodologies, risk-mitigated cutover strategies
+
+- **[03-zero-trust-security](./03-zero-trust-security)**  
+  Practical application of zero-trust principles using Cisco ISE/NAC, identity-driven micro-segmentation, endpoint protection & SecOps practices
+
+- **[04-cloud-native-governance](./04-cloud-native-governance)**  
+  Cloud-agnostic governance models, AKS / Kubernetes hardening, policy enforcement patterns, compliance alignment (CIS, regulatory frameworks)
+
+### Guiding Architecture Principles
+
+All designs and case studies are shaped by these consistent principles:
+
+- **Security & Identity** — Secure by Design, Identity as the new perimeter  
+- **Operational Excellence** — Observability-first, Network as Control Plane, Governance embedded early  
+- **Architectural Flexibility** — Cloud-agnostic patterns, strong resilience & reliability focus  
+- **Future-readiness** — Foundations prepared for AI/ML workloads and data-intensive services
+
+### About Me
+
+Enterprise Architect with **20+ years** of experience evolving complex network & security environments into secure, governable, and cloud-ready platforms.
+
+Most recent focus areas include:
+
+- Hybrid/multi-cloud transformations in regulated sectors  
+- SD-WAN & network modernization at scale  
+- Zero Trust program implementation  
+- Data center consolidation, optimization & relocation  
+- Cloud repatriation and hybrid disaster recovery strategies  
+- AI-ready infrastructure foundations
+
+### Purpose of This Portfolio
+
+To show how **enterprise architecture is practiced in reality** — beyond slideware, beyond vendor demos, centered on:
+
+- High-quality architectural decisions  
+- Risk understanding and mitigation  
+- Governance that survives production  
+- Trade-off navigation in complex, regulated environments
+
+> “Architecture is not what we deploy.  
+> Architecture is **how we decide**.”
+
+<br/>
+
+**Open to interesting challenges in enterprise architecture, hybrid cloud strategy, zero trust transformation, and AI infrastructure foundations.**
+
+Feel free to explore the repositories — feedback and thoughtful questions are always welcome.
+
+---
+Jonathan Tene  
+Enterprise Architect | Hybrid Cloud · Zero Trust · Network Modernization  
+[LinkedIn](https://linkedin.com/in/jonathan-tene/) • [Email](mailto:jonathan.tene@xtratree.com)
