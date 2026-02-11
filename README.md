@@ -42,16 +42,16 @@ Each repository or folder represents a **sanitized case study** focused on **why
 
 ### Flagship Repositories & Patterns
 
-- **[01-hybrid-multicloud-blueprints](./01-hybrid-multicloud-blueprints)**  
+- **[01-Hybrid-Multi-Cloud-Blueprints](./01-hybrid-multicloud-blueprints)**  
   Patterns for regulated industries (healthcare & finance) — secure workload distribution, data sovereignty, resilience, and zero-trust segmentation across on-premises and multiple clouds
 
-- **[02-network-modernization](./02-network-modernization)**  
+- **[02-Network-Modernization](./02-network-modernization)**  
   Large-scale MPLS-to-SD-WAN transformations, data center optimization & relocation methodologies, risk-mitigated cutover strategies
 
-- **[03-zero-trust-security](./03-zero-trust-security)**  
+- **[03-Zero-Trust-Security](./03-zero-trust-security)**  
   Practical application of zero-trust principles using Cisco ISE/NAC, identity-driven micro-segmentation, endpoint protection & SecOps practices
 
-- **[04-cloud-native-governance](./04-cloud-native-governance)**  
+- **[04-Cloud-Native-Governance](./04-cloud-native-governance)**  
   Cloud-agnostic governance models, AKS / Kubernetes hardening, policy enforcement patterns, compliance alignment (CIS, regulatory frameworks)
 
 ### Guiding Architecture Principles
