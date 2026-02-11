@@ -35,16 +35,13 @@ Applying zero-trust principles using Cisco ISE/NAC and SecOps practices for iden
 04 — Cloud-Native Governance
 Cloud-agnostic governance and hardening patterns for multi-cloud and Kubernetes environments aligned with compliance and zero-trust.
 
-
 Architecture Principles
 All case studies are built upon consistent principles:
-	• Secure by Design
-	• Identity as the new perimeter
-	• Network as a control plane
-	• Observability and SecOps integration
-	• Governance before tooling
-	• Cloud-agnostic design
-	• AI-ready infrastructure foundations
+
+	• Security & Identity principles 		(Secure by Design, Identity as perimeter)
+	• Operational principles 			(Observability, Network as a Control Plane, Governance-first)
+	• Architectural flexibility 			(Cloud-agnostic, resilience/reliability)
+	• Future-ready foundations 			(AI/ML optimization)
 
 About Me
 Enterprise Architect with 20+ years in network and security engineering, specializing in transforming complex infrastructures into secure, governable, cloud-ready platforms.
@@ -55,6 +52,6 @@ Experience across:
 	• Large distributed enterprises
 
 Purpose of this portfolio
-To demonstrate how enterprise architecture is practiced in real environments — beyond theory, beyond tooling, focused on decision quality, risk control, and governance.
+To demonstrate how enterprise architecture is practiced in real environments beyond theory, beyond tooling, focused on decision quality, risk control, and governance.
 
 	“Architecture is not what we deploy. Architecture is how we decide.”
