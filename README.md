@@ -46,18 +46,6 @@ All case studies are built upon consistent principles:
 	• Cloud-agnostic design
 	• AI-ready infrastructure foundations
 
-How to read these repositories
-Each project follows the same structure:
-	1. Context and constraints
-	2. Initial state architecture
-	3. Challenges identified
-	4. Target architecture
-	5. Architectural decisions and rationale
-	6. Security and compliance considerations
-	7. Migration strategy
-	8. Operational model
-	9. Lessons learned
-
 About Me
 Enterprise Architect with 20+ years in network and security engineering, specializing in transforming complex infrastructures into secure, governable, cloud-ready platforms.
 Experience across:
