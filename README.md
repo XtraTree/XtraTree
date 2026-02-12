@@ -29,7 +29,7 @@ This is an **Architectural Evidence Library**  a collection of sanitized, real-w
 - **Migration strategies**, cutover approaches, risk models & operational designs  
 - **Architecture decision records (ADRs)** and lessons learned from production environments
 
-Each repository or folder represents **the most recent and relevant consulting engagements** focused on **why** decisions were made, **how** trade-offs were handled, and **what** outcomes were achieved.
+Each repository or folder represents **my most recent and relevant consulting engagements** focused on **why** decisions were made, **how** trade-offs were handled, and **what** outcomes were achieved.
 
 ### Core Architecture Domains
 
