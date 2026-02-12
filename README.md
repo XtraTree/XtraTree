@@ -18,7 +18,7 @@ I am an **Enterprise Architect** specializing in:
 - Risk-informed decision frameworks
 
 This is **not** a traditional code repository.  
-This is an **Architectural Evidence Library** — a collection of sanitized, real-world case studies, decision rationales, patterns, and governance models drawn from complex enterprise transformations in **healthcare**, **finance**, **public sector**, and large distributed organizations.
+This is an **Architectural Evidence Library**  a collection of sanitized, real-world case studies, decision rationales, patterns, and governance models drawn from complex enterprise transformations in **healthcare**, **finance**, **public sector**, and large distributed organizations.
 
 ### What You Will Find Here
 
@@ -29,7 +29,7 @@ This is an **Architectural Evidence Library** — a collection of sanitized, rea
 - **Migration strategies**, cutover approaches, risk models & operational designs  
 - **Architecture decision records (ADRs)** and lessons learned from production environments
 
-Each repository or folder represents a **sanitized case study** focused on **why** decisions were made, **how** trade-offs were handled, and **what** outcomes were achieved.
+Each repository or folder represents **the most recent and relevant consulting engagements** focused on **why** decisions were made, **how** trade-offs were handled, and **what** outcomes were achieved.
 
 ### Core Architecture Domains
 
@@ -42,17 +42,20 @@ Each repository or folder represents a **sanitized case study** focused on **why
 
 ### Flagship Repositories & Patterns
 
+- **[00-Architecture Principles](https://github.com/XtraTree/00-Architecture-Principles)**  
+  Enterprise Architecture principles for designing secure, resilient, AI-ready hybrid infrastructures across network, cloud, and security domains.
+
 - **[01-Hybrid-Multi-Cloud-Blueprints](https://github.com/XtraTree/01-Hybrid-Multi-Cloud-Blueprints)**  
-  Patterns for regulated industries (healthcare & finance) — secure workload distribution, data sovereignty, resilience, and zero-trust segmentation across on-premises and multiple clouds
+  Patterns for regulated industries (healthcare & finance), secure workload distribution, data sovereignty, resilience, and zero-trust segmentation across on-premises and multiple clouds
 
 - **[02-Network-Modernization](https://github.com/XtraTree/02-Network-Modernization)**  
   Large-scale MPLS-to-SD-WAN transformations, data center optimization & relocation methodologies, risk-mitigated cutover strategies
 
 - **[03-Zero-Trust-Security](https://github.com/XtraTree/03-Zero-Trust-Security)**  
-  Practical application of zero-trust principles using Cisco ISE/NAC, identity-driven micro-segmentation, endpoint protection & SecOps practices
+  Practical application of zero-trust principles using Cisco ISE/NAC, identity driven micro-segmentation, endpoint protection & SecOps practices
 
 - **[04-Cloud-Native-Governance](https://github.com/XtraTree/04-Cloud-Native-Governance)**  
-  Cloud-agnostic governance models, AKS / Kubernetes hardening, policy enforcement patterns, compliance alignment (CIS, regulatory frameworks)
+  Cloud agnostic governance models, AKS / Kubernetes hardening, policy enforcement patterns, compliance alignment (CIS, regulatory frameworks)
 
 ### Guiding Architecture Principles
 
