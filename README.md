@@ -1,7 +1,12 @@
-# XtraTree — Enterprise Architecture & Governance
+# 🏗️ XtraTree — Enterprise Architecture & Governance
+
+![Architecture](https://img.shields.io/badge/Architecture-Strategic-2E7D32?style=flat-square&logo=openstack&logoColor=white)
+![Governance](https://img.shields.io/badge/Governance-IT%20Strategy-1565C0?style=flat-square&logo=shield&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Hybrid%20|%20Multi--Cloud-FF6F00?style=flat-square&logo=cloud&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Zero--Trust-C62828?style=flat-square&logo=lock&logoColor=white)
 
 **Strategic Enterprise Architecture**  
-Business Modeling • Process Management • IT Governance • Secure Hybrid Infrastructure
+🎯 Business Modeling • ⚙️ Process Management • 🛡️ IT Governance • ☁️ Secure Hybrid Infrastructure
 
 ---
 
