@@ -15,50 +15,6 @@ This GitHub profile is a strategic portfolio showcasing architectural frameworks
 
 ---
 
-## Core Capabilities
-
-### Business Modeling
-- Capability mapping & value stream alignment
-- Business–IT alignment frameworks
-- Target operating model definition
-- Strategic transformation roadmaps
-
-### Process Management
-- Architecture governance workflows
-- Migration lifecycle models
-- Operational escalation & control loops
-- Continuous improvement frameworks
-
-### IT Governance
-- Architecture principles & standards
-- Cloud governance & policy models
-- Risk control & compliance integration
-- Security-by-design patterns
-
-### Technology Architecture
-- Hybrid & Multi-Cloud Strategy
-- Network Modernization (MPLS → SD-WAN)
-- Zero-Trust Architecture
-- Cloud-Native Security & Resilience
-
----
-
-## Architecture Domains
-
-### Hybrid & Multi-Cloud
-Workload placement models, governance frameworks, regulatory alignment, resilience strategy.
-
-### Network Modernization
-Enterprise WAN redesign, segmentation models, modernization governance processes.
-
-### Zero-Trust Security
-Identity-centric access models, segmentation strategies, policy enforcement patterns.
-
-### Cloud Governance
-Policy-as-code principles, compliance architecture, workload lifecycle governance.
-
----
-
 ## Portfolio Structure
 
 Each architectural case study follows a structured model:
