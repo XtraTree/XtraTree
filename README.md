@@ -1,44 +1,97 @@
-# Jonathan Tene — Enterprise Architecture Portfolio
+# XtraTree — Enterprise Architecture & Governance
 
-**Designing Secure, Resilient, AI-Ready Hybrid & Multi-Cloud Infrastructures**
+**Strategic Enterprise Architecture**  
+Business Modeling • Process Management • IT Governance • Secure Hybrid Infrastructure
 
-<p align="center">
-  <em>Real-world architectural evidence from large-scale transformation programs in regulated industries</em>
-</p>
+---
 
-<br/>
+## About
 
-I am an **Enterprise Architect** specializing in:
+Enterprise Architect focused on aligning business strategy, operational processes, and IT governance with secure, scalable hybrid infrastructures.
 
-- Hybrid & multi-cloud strategies  
-- Network modernization & segmentation  
-- Zero Trust security & identity-driven access  
-- Cloud-native governance & workload hardening  
-- Data center optimization & migration  
-- Risk-informed decision frameworks
+This GitHub profile is a strategic portfolio showcasing architectural frameworks, governance models, and transformation blueprints developed across enterprise environments.
 
-This is **not** a traditional code repository.  
-This is an **Architectural Evidence Library**  a collection of sanitized, real-world case studies, decision rationales, patterns, and governance models drawn from complex enterprise transformations in **healthcare**, **finance**, **public sector**, and large distributed organizations.
+**It is not code-centric. It is architecture-centric.**
 
-### What You Will Find Here
+---
 
-- **Hybrid & multi-cloud architecture blueprints** (workload placement, data residency, resilience)  
-- **Network modernization patterns** (MPLS → SD-WAN, data center relocation & optimization)  
-- **Zero Trust & security posture** implementations (NAC, identity, SecOps, continuous protection)  
-- **Cloud-native governance & hardening** patterns (Kubernetes, policy-as-code, compliance alignment)  
-- **Migration strategies**, cutover approaches, risk models & operational designs  
-- **Architecture decision records (ADRs)** and lessons learned from production environments
+## Core Capabilities
 
-Each repository or folder represents **my most recent and relevant consulting engagements** focused on **why** decisions were made, **how** trade-offs were handled, and **what** outcomes were achieved.
+### Business Modeling
+- Capability mapping & value stream alignment
+- Business–IT alignment frameworks
+- Target operating model definition
+- Strategic transformation roadmaps
 
-### Core Architecture Domains
+### Process Management
+- Architecture governance workflows
+- Migration lifecycle models
+- Operational escalation & control loops
+- Continuous improvement frameworks
 
-| Domain                     | Primary Focus areas                                                                 |
-|----------------------------|--------------------------------------------------------------------------------------|
-| **Hybrid & Multi-Cloud**   | Data residency, disaster recovery (RTO/RPO), workload placement, repatriation       |
-| **Network Modernization**  | SD-WAN, segmentation, data center optimization & relocation, minimal-risk migration |
-| **Zero Trust Security**    | Identity as perimeter, NAC/ISE, continuous monitoring & remediation, SecOps         |
-| **Cloud-Native Governance**| Workload hardening, policy enforcement, compliance mapping, Kubernetes security    |
+### IT Governance
+- Architecture principles & standards
+- Cloud governance & policy models
+- Risk control & compliance integration
+- Security-by-design patterns
+
+### Technology Architecture
+- Hybrid & Multi-Cloud Strategy
+- Network Modernization (MPLS → SD-WAN)
+- Zero-Trust Architecture
+- Cloud-Native Security & Resilience
+
+---
+
+## Architecture Domains
+
+### Hybrid & Multi-Cloud
+Workload placement models, governance frameworks, regulatory alignment, resilience strategy.
+
+### Network Modernization
+Enterprise WAN redesign, segmentation models, modernization governance processes.
+
+### Zero-Trust Security
+Identity-centric access models, segmentation strategies, policy enforcement patterns.
+
+### Cloud Governance
+Policy-as-code principles, compliance architecture, workload lifecycle governance.
+
+---
+
+## Portfolio Structure
+
+Each architectural case study follows a structured model:
+
+1. **Business Context**
+2. **Current-State Assessment**
+3. **Target Architecture Blueprint**
+4. **Governance & Control Model**
+5. **Process Flow Design**
+6. **Risk & Trade-off Analysis**
+7. **Reusable Architecture Patterns**
+
+---
+
+## Architectural Philosophy
+
+- Architecture is strategic, not technical documentation
+- Governance must be embedded, not layered
+- Process discipline enables scalable transformation
+- Security is structural, not reactive
+- Complexity must be intentionally designed
+
+---
+
+## Professional Focus
+
+- Enterprise Architecture Strategy
+- IT Governance Frameworks
+- Business Process Integration
+- Secure Hybrid & Cloud Architecture
+- Transformation Advisory
+
+---
 
 ### Flagship Repositories & Patterns
 
@@ -57,41 +110,6 @@ Each repository or folder represents **my most recent and relevant consulting en
 - **[04-Cloud-Native-Governance](https://github.com/XtraTree/04-Cloud-Native-Governance)**  
   Cloud agnostic governance models, AKS / Kubernetes hardening, policy enforcement patterns, compliance alignment (CIS, regulatory frameworks)
 
-### Guiding Architecture Principles
-
-All designs and case studies are shaped by these consistent principles:
-
-- **Security & Identity** — Secure by Design, Identity as the new perimeter  
-- **Operational Excellence** — Observability-first, Network as Control Plane, Governance embedded early  
-- **Architectural Flexibility** — Cloud-agnostic patterns, strong resilience & reliability focus  
-- **Future-readiness** — Foundations prepared for AI/ML workloads and data-intensive services
-
-### About Me
-
-Enterprise Architect with **20+ years** of experience evolving complex network & security environments into secure, governable, and cloud-ready platforms.
-
-Most recent focus areas include:
-
-- Hybrid/multi-cloud transformations in regulated sectors  
-- SD-WAN & network modernization at scale  
-- Zero Trust program implementation  
-- Data center consolidation, optimization & relocation  
-- Cloud repatriation and hybrid disaster recovery strategies  
-- AI-ready infrastructure foundations
-
-### Purpose of This Portfolio
-
-To show how **enterprise architecture is practiced in reality** — beyond slideware, beyond vendor demos, centered on:
-
-- High-quality architectural decisions  
-- Risk understanding and mitigation  
-- Governance that survives production  
-- Trade-off navigation in complex, regulated environments
-
-> “Architecture is not what we deploy.  
-> Architecture is **how we decide**.”
-
-<br/>
 
 **Open to interesting challenges in enterprise architecture, hybrid cloud strategy, zero trust transformation, and AI infrastructure foundations.**
 
@@ -99,5 +117,7 @@ Feel free to explore the repositories — feedback and thoughtful questions are 
 
 ---
 Jonathan Tene  
-Enterprise Architect | Hybrid Cloud · Zero Trust · Network Modernization  
+*Enterprise Architecture | IT Governance | Digital Transformation*
+
 [LinkedIn](https://linkedin.com/in/jonathan-tene/) • [Email](mailto:jonathan.tene@xtratree.com)
+
