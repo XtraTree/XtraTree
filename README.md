@@ -51,6 +51,8 @@ Each architectural case study follows a structured model:
 - Business Process Integration
 - Secure Hybrid & Cloud Architecture
 - Transformation Advisory
+  
+Enterprise Architecture • TOGAF • IT Governance • Cloud Strategy • Hybrid Infrastructure • Network Modernization • Zero Trust • Business Architecture • Transformation Strategy
 
 ---
 
@@ -71,6 +73,7 @@ Each architectural case study follows a structured model:
 - **[04-Cloud-Native-Governance](https://github.com/XtraTree/04-Cloud-Native-Governance)**  
   Cloud agnostic governance models, AKS / Kubernetes hardening, policy enforcement patterns, compliance alignment (CIS, regulatory frameworks)
 
+---
 
 **Open to interesting challenges in enterprise architecture, hybrid cloud strategy, zero trust transformation, and AI infrastructure foundations.**
 
